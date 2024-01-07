@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "demogitram"
+		},
+		"AzureBlobStorageLS_connectionString": {
+			"value": ""
 		}
 	}
 }
