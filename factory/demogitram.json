@@ -1,0 +1,9 @@
+{
+	"name": "demogitram",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "22c89699-dec9-43bc-8044-23a99cf095ba",
+		"tenantId": "d793dfe5-7e73-49f7-ae28-4d5c99a65805"
+	}
+}
